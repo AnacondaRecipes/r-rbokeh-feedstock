@@ -27,6 +27,7 @@ requirements:
   build:
     - {{posix}}filesystem        # [win]
     - {{posix}}git
+    - {{posix}}zip               # [win]
 
   host:
     - r-base
